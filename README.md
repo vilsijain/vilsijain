@@ -1,16 +1,18 @@
-### Hi there 👋
+Facebook @Vilsi Jain (https://www.facebook.com/vilsi.jai)
+Quora @Vilsi Jain(https://www.quora.com/profile/Vilsi-Jain)
+I am a open source enthiusiast & college student my Bachelors in Computer Science & Engineering
+I am passionate about Machine Learning , Web dev ,Coding ,Docker.
 
-<!--
-**vilsi12/vilsi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+EXPERIENCE                                                                                                                              
+Amazon Alexa Community speaker- I give talks in community in different groups regarding github,open source etc.        
+Casio Campus Ambassador (Intern)                                                                                                 
+Working as marketing with  college first year and other telling good calculator casio .         
+Grafix Studio -ML Engineer -  (Intern)                                                                                                                           
+I have to work on Machine Learning projects recommendation and App development            
+Linux World Internship-                                                                                                                          
+Worked on MLOps projects on Machine Learning integrating DevopsUsing ML,Redhat8,Linux,Docker,GNNs ,Kubernetes,Keras and other. Model achieved 90% above accuracy                  Linux World Internship as Flutter Mobile App Developer                                                            
+Developed Android app using Flutter,dart Language using Docker ,Redhat8,Google Cloud Platform                                                          
+ Regex Software Services- Graphic Designer(Intern)-                                                                  
+ Worked on Adobe illustrator,Adobe Photoshop,Adobe Spark and delivered Poster, Thumbnail and other services.                                        
+IncubatedIND Fellow member-                                                                                                                 
+ I organise and managed Hackathon, Bootcamp, Sessions and   Hackathon in many countries and I was organiser of country UGANDA others   
