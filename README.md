@@ -20,4 +20,5 @@ Casio Campus Ambassador (Intern) Working as marketing with college first year an
 **Linux World Internship-** Worked on MLOps projects on Machine Learning integrating DevopsUsing ML,Redhat 8,Linux, Docker,GNNs ,Kubernetes,Keras and other. Model achieved 90% above accuracy 
 
 **Linux World Internship as Flutter Mobile App Developer** Developed Android app using Flutter,dart Language using Docker ,Redhat8,Google Cloud Platform 
+
 **Regex Software Services- Graphic Designer(Intern)**- Worked on Adobe illustrator,Adobe Photoshop,Adobe Spark and delivered Poster, Thumbnail and other services. 
