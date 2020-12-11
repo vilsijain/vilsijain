@@ -16,7 +16,7 @@ I am passionate about Machine Learning , Web dev ,Coding ,Docker.
 **IncubatedIND Fellow member**- I organize and managed Hackathon, Bootcamp, Sessions and Hackathon in many countries and I was organizer of country UGANDA others.
 Casio Campus Ambassador (Intern) Working as marketing with college first year and other telling good calculator casio .
 
-**Grafix Studio -**ML Engineer - (Intern) I**** have to work on Machine Learning projects recommendation and App development 
+**Grafix Studio -**ML Engineer - (Intern) I**** have to work on Machine Learning projects recommendation and App development and for database 
 
 **Linux World Internship-** Worked on MLOps projects on Machine Learning integrating DevopsUsing ML,Redhat 8,Linux, Docker,GNNs ,Kubernetes,Keras and other. Model achieved 90% above accuracy 
 
