@@ -7,7 +7,7 @@ Quora @Vilsi Jain(https://www.quora.com/profile/Vilsi-Jain)
 
 Selected in SWOC
 
-** The Beginner Hack title winner in CUNY Hackathon**
+** The Beginner Hack title winner in CUNY Hackathon in MLH **
 **Win Hackathon from github in in fintech group **
 😎😎**In Intuit Hackathon selected  Top 30 Team Github Repo Budget-managenent**
 
