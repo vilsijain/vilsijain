@@ -8,7 +8,7 @@ Quora @Vilsi Jain(https://www.quora.com/profile/Vilsi-Jain)
 
 Selected in mentor SWOC
 ## Mentor Crosswoc
-## GSSOC Participant 
+## GSSOC Mentor
 
 **The Beginner Hack title winner in CUNY Hackathon in MLH **
 **Win Hackathon from github in in fintech group **
