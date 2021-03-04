@@ -11,7 +11,7 @@ Selected in mentor SWOC
 ## GSSOC Mentor
 
 **The Beginner Hack title winner in CUNY Hackathon in MLH **
-Code n build google developer group Hackathon Top 6 Team 
+Code n build google developer group Hackathon Top 6 Team,
 **Win Hackathon from github in in fintech group **
 😎😎**In Intuit Hackathon selected  Top 30 Team Github Repo Budget-managenent**
 
