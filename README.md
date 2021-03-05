@@ -5,12 +5,12 @@ Facebook @Vilsi Jain (https://www.facebook.com/vilsi.jain)
 Resume (https://docs.google.com/document/d/1gPNICOhCR1PH88NghKQKLwaOc0aW97BOIZ2C6qC8Kaw/edit)
 
 Quora @Vilsi Jain(https://www.quora.com/profile/Vilsi-Jain)
-
-Selected in mentor SWOC
-## Mentor Crosswoc
-## GSSOC Mentor
 ![vilsi12 github stats](https://github-readme-stats.vercel.app/api?username=vilsi12&count_private=true&show_icons=true&hide_border=true)
 <br/>
+Selected in mentor SWOC
+**Mentor Crosswoc**
+ **GSSOC Mentor**
+
 **The Beginner Hack title winner in CUNY Hackathon in MLH **
 Code n build google developer group Hackathon Top 6 Team,
 **Win Hackathon from github in in fintech group **
