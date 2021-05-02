@@ -25,7 +25,7 @@ I am passionate about Machine Learning , Web dev ,Coding ,Docker.
 **Amazon Alexa Community speaker**- I give talks in community in different groups regarding github,open source etc. 
 
 
-**Microsogt Azure Community Organizer Jaipur** 
+**Microsoft Azure Community Organizer Jaipur** 
 
 **IncubatedIND Fellow member**- I organize and managed Hackathon, Bootcamp, Sessions and Hackathon in many countries and I was organizer of country UGANDA others.
 
