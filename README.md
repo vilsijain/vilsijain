@@ -22,12 +22,14 @@ Code n build google developer group Hackathon Top 6 Team,
 🎓I am a open source enthiusiast & college student my Bachelors in Computer Science & Engineering
 I am passionate about Machine Learning , Web dev ,Coding ,Docker.
 
-## EXPERIENCE   
+## EXPERIENCE 
+**Microsoft Learning student Ambassador**
+
+**Microsoft Azure Community Organizer Jaipur** 
 
 **Amazon Alexa Community speaker**- I give talks in community in different groups regarding github,open source etc. 
 
 
-**Microsoft Azure Community Organizer Jaipur** 
 
 **IncubatedIND Fellow member**- I organize and managed Hackathon, Bootcamp, Sessions and Hackathon in many countries and I was organizer of country UGANDA others.
 
