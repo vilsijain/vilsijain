@@ -35,11 +35,7 @@ I am passionate about Machine Learning , Web dev ,Coding ,Docker.
 **Amazon Alexa Community speaker**- I give talks in community in different groups regarding github,open source etc. 
 
 
-
 **IncubatedIND Fellow member**- I organize and managed Hackathon, Bootcamp, Sessions and Hackathon in many countries and I was organizer of country UGANDA others.
-
-
-Casio Campus Ambassador (Intern) Working as marketing with college first year and other telling good calculator casio .
 
 **Congle -**ML Engineer - (Intern) I**** have to work on Machine Learning projects recommendation and App development and for database 
 
@@ -48,3 +44,7 @@ Casio Campus Ambassador (Intern) Working as marketing with college first year an
 **Linux World Internship as Flutter Mobile App Developer** Developed Android app using Flutter,dart Language using Docker ,Redhat8,Google Cloud Platform 
 
 **Regex Software Services- Graphic Designer(Intern)**- Worked on Adobe illustrator,Adobe Photoshop,Adobe Spark and delivered Poster, Thumbnail and other services. 
+
+ Community 
+ 
+![Az Community (New Logo) Blue](https://user-images.githubusercontent.com/25385071/118434648-0745e600-b6fb-11eb-8a78-15a97d9443e6.jpg)
