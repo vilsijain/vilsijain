@@ -20,9 +20,7 @@ Resume (https://docs.google.com/document/d/19SNXQ3F75KC0SePUYamexGBZlOGbQiWRme5B
 
 Hackathon Judge - Hackoverflow
 
-**The Beginner Hack title winner in CUNY Hackathon in MLH 
-Code n build google developer group Hackathon Top 6 Team
-Win Hackathon from github in in fintech group
+**The Beginner Hack title winner in CUNY Hackathon in MLH        Code n build google developer group Hackathon Top 6 Team        Win Hackathon from github in in fintech group
 😎😎In Intuit Hackathon selected  Top 30 Team Github Repo Budget-managenent**
 
 🎓I am a open source enthiusiast & college student my Bachelors in Computer Science & Engineering
