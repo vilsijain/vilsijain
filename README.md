@@ -31,6 +31,7 @@ I am passionate about Machine Learning , Web dev ,Coding ,Docker.
 
 **Microsoft Azure Community Organizer Jaipur** 
 
+
 **Amazon Alexa Community speaker**- I give talks in community in different groups regarding github,open source etc. 
 
 
