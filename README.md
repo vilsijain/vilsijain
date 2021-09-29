@@ -16,7 +16,7 @@ Resume (https://docs.google.com/document/d/19SNXQ3F75KC0SePUYamexGBZlOGbQiWRme5B
  
  Selected in mentor SWOC
 **Mentor Crosswoc**
- **GSSOC Mentor**
+ **GSSOC Mentor 21**
 
 Hackathon Judge - Hackoverflow
 
