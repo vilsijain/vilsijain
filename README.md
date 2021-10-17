@@ -27,7 +27,7 @@ Hackathon Judge - Hackoverflow
 I am passionate about Machine Learning , Web dev ,Coding ,Docker.
 
 ## EXPERIENCE 
-**Microsoft Learning student Ambassador**
+**Beta Microsoft Learning student Ambassador**
 
 **Microsoft Azure Community Organizer Jaipur** 
 
