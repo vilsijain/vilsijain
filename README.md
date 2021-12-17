@@ -27,6 +27,7 @@ Hackathon Judge - Hackoverflow
 I am passionate about Machine Learning , Web dev ,Coding ,Docker.
 
 ## EXPERIENCE 
+**AI App developer at Crosscert
 **Beta Microsoft Learning student Ambassador**
 
 **Microsoft Azure Community Organizer Jaipur** 
