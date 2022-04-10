@@ -27,7 +27,7 @@ Hackathon Judge - Hackoverflow ,CalHacks 8.0 ,Hoyahacks
 I am passionate about Machine Learning , Web dev ,Coding ,Docker.
 
 ## EXPERIENCE 
-**AI App developer at Crosscert- Working on App using Flutter ,ML,AWS **
+**AI App developer at Crosscert- Working on App using Flutter ,ML, AWS **
 
 **Beta Microsoft Learning student Ambassador**
 
