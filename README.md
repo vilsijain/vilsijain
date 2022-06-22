@@ -9,6 +9,8 @@ Hey :wave:,I'm Vilsi Jain
 <a href="mailto:jainvilsi12@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.facebook.com//vilsi.jain/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
+ ### [Connect with me 💬](https://bio.link/kunalk) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=vilsi12.vilsi12)
  ![vilsi12 github stats](https://github-readme-stats.vercel.app/api?username=vilsi12&count_private=true&show_icons=true&hide_border=true)
 <br/>
   </div>
@@ -27,6 +29,7 @@ Hackathon Judge - Hackoverflow ,CalHacks 8.0 ,Hoyahacks
 I am passionate about Machine Learning , Web dev ,Coding ,Docker.
 
 ## EXPERIENCE 
+
 **AI App developer at Crosscert- Working on App using Flutter ,ML, AWS **
 
 **Beta Microsoft Learning student Ambassador**
@@ -41,9 +44,6 @@ I am passionate about Machine Learning , Web dev ,Coding ,Docker.
 
 **Congle -**ML Engineer - (Intern) I**** have to work on Machine Learning projects recommendation and App development and for database 
 
-**Linux World Internship-** Worked on MLOps projects on Machine Learning integrating DevopsUsing ML,Redhat 8,Linux, Docker,GNNs ,Kubernetes,Keras and other. Model achieved 90% above accuracy 
-
-**Linux World Internship as Flutter Mobile App Developer** Developed Android app using Flutter,dart Language using Docker ,Redhat8,Google Cloud Platform 
 
 **Regex Software Services- Graphic Designer(Intern)**- Worked on Adobe illustrator,Adobe Photoshop,Adobe Spark and delivered Poster, Thumbnail and other services. 
 
