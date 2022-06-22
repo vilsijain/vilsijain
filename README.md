@@ -9,8 +9,6 @@ Hey :wave:,I'm Vilsi Jain
 <a href="mailto:jainvilsi12@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.facebook.com//vilsi.jain/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
- ### [Connect with me 💬](https://bio.link/kunalk) 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=vilsi12.vilsi12)
  ![vilsi12 github stats](https://github-readme-stats.vercel.app/api?username=vilsi12&count_private=true&show_icons=true&hide_border=true)
 <br/>
   </div>
@@ -22,6 +20,7 @@ Hey :wave:,I'm Vilsi Jain
 
 Hackathon Judge - Hackoverflow ,CalHacks 8.0 ,Hoyahacks
 
+
 **The Beginner Hack title winner in CUNY Hackathon in MLH 😁 Code n build google developer group Hackathon Top 6 Team🎉 Win Hackathon from github Code innovation series in in fintech group
 😎😎Intuit Hackathon selected Top 30 Team Github**
 
@@ -29,21 +28,17 @@ Hackathon Judge - Hackoverflow ,CalHacks 8.0 ,Hoyahacks
 I am passionate about Machine Learning , Web dev ,Coding ,Docker.
 
 ## EXPERIENCE 
-
-**AI App developer at Crosscert- Working on App using Flutter ,ML, AWS **
+**Software Engineer at Crosscert** - Working on Machine Learning ,App developement,cloud
 
 **Beta Microsoft Learning student Ambassador**
 
 **Microsoft Azure Community Organizer Jaipur** 
 
-
-**Amazon Alexa Community speaker**- I give talks in community in different groups regarding github,open source etc. 
-
+**Congle - ML Engineer (Intern)** have to work on Machine Learning projects recommendation and App development and for database 
 
 **IncubatedIND Fellow member**- I organize and managed Hackathon, Bootcamp, Sessions and Hackathon in many countries and I was organizer of country UGANDA others.
 
-**Congle -**ML Engineer - (Intern) I**** have to work on Machine Learning projects recommendation and App development and for database 
-
+**Amazon Alexa Community speaker**- I give talks in community in different groups regarding github,open source etc. 
 
 **Regex Software Services- Graphic Designer(Intern)**- Worked on Adobe illustrator,Adobe Photoshop,Adobe Spark and delivered Poster, Thumbnail and other services. 
 
