@@ -13,12 +13,14 @@ Hey :wave:,I'm Vilsi Jain
 <br/>
   </div>
 
- 
- Selected in mentor SWOC
-**Mentor Crosswoc**
- **GSSOC Mentor 21**
+I am passionate about Coding, Development, Machine Learning, and Open Source.
+Love to speak in the community and contribute to the community by being a speaker in many communities Amazon, 20+ Google developer groups, Microsoft Reactor (Women community), Azure dev community, Many International Hackathon, and many other community
 
-Hackathon Judge - Hackoverflow ,CalHacks 8.0 ,Hoyahacks
+Love to Speak on topics Flutter, Open Source, Machine Learning, Tech community, Azure
+Judge 6+ International Hackathon
+Mentor many Open source communities and Hackathons
+Lead Organizer of 2 months of Open source program with 4000+ participants
+Organized hackathons, Seminars, and events.
 
 
 **The Beginner Hack title winner in CUNY Hackathon in MLH 😁 Code n build google developer group Hackathon Top 6 Team🎉 Win Hackathon from github Code innovation series in in fintech group
