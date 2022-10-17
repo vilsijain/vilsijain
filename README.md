@@ -9,8 +9,7 @@ Hey :wave:,I'm Vilsi Jain
 <a href="mailto:jainvilsi12@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.facebook.com//vilsi.jain/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 
- ![vilsi12 github stats](https://github-readme-stats.vercel.app/api?username=vilsi12&count_private=true&show_icons=true&hide_border=true)
- ![vilsi12 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsi12&layout=compact)
+ 
 <br/>
   </div>
 
@@ -43,6 +42,8 @@ I am passionate about Machine Learning , Web dev ,Coding ,Docker.
 
 **Regex Software Services- Graphic Designer(Intern)**- Worked on Adobe illustrator,Adobe Photoshop,Adobe Spark and delivered Poster, Thumbnail and other services. 
 
+![vilsi12 github stats](https://github-readme-stats.vercel.app/api?username=vilsi12&count_private=true&show_icons=true&hide_border=true)
+![vilsi12 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsi12&layout=compact)
  Community 
  
 ![Az Community (New Logo) Blue](https://user-images.githubusercontent.com/25385071/118434648-0745e600-b6fb-11eb-8a78-15a97d9443e6.jpg)
