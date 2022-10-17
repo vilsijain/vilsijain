@@ -14,7 +14,7 @@ Hey :wave:,I'm Vilsi Jain
   </div>
 
 
-I am passionate about Coding, Development, Machine Learning, and Open Source.
+🎓 I am passionate about Coding, Development, Machine Learning, and Open Source.
 Love to speak in the community and contribute to the community by being a speaker in many communities Amazon, 20+ Google developer groups, Microsoft Reactor (Women community), Azure dev community, Many International Hackathon, and many other community
 
 Love to Speak on topics Flutter, Open Source, Machine Learning, Tech community, Azure
@@ -27,8 +27,7 @@ Organized hackathons, Seminars, and events.
 **The Beginner Hack title winner in CUNY Hackathon in MLH 😁 Code n build google developer group Hackathon Top 6 Team🎉 Win Hackathon from github Code innovation series in in fintech group
 😎😎Intuit Hackathon selected Top 30 Team Github**
 
-🎓I am a open source enthiusiast & college student my Bachelors in Computer Science & Engineering
-I am passionate about Machine Learning , Web dev ,Coding ,Docker.
+
 
 ## EXPERIENCE 
 **Software Engineer at Crosscert** - Working on Machine Learning ,App developement,cloud
