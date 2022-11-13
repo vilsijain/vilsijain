@@ -44,7 +44,6 @@ Organized hackathons, Seminars, and events.
 
 **Regex Software Services- Graphic Designer(Intern)**- Worked on Adobe illustrator,Adobe Photoshop,Adobe Spark and delivered Poster, Thumbnail and other services. 
 
-![vilsi12 github stats](https://github-readme-stats.vercel.app/api?username=vilsi12&count_private=true&show_icons=true&hide_border=true)
 ![vilsi12 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsi12&layout=compact)
 
 ## Community 
