@@ -17,6 +17,8 @@ Hey :wave:,I'm Vilsi Jain
 🎓 I am passionate about Coding, Development, Machine Learning, and Open Source.
 Love to speak in the community and contribute to the community by being a speaker in many communities Amazon, 20+ Google developer groups, Microsoft Reactor (Women community), Azure dev community, Many International Hackathon, and many other community
 
+Youngest Speaker at Google Cloud Community days Jaipur 
+
 Love to Speak on topics Flutter, Open Source, Machine Learning, Tech community, Azure
 Judge 6+ International Hackathon
 Mentor many Open source communities and Hackathons
