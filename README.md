@@ -28,32 +28,33 @@ Organized hackathons, Seminars, and events.
 
 **Winner of Hackathon -**
 <span>Github Code innovation series</span>
+
 Winner of title Best Use of google cloud in hacker
+
 Airbus Aerothon 2.0 Finalist
+
 Zeta Hacks 3.0 Top 50 team from 6000 participant
-Winner of Code-N-Build from google developer from 4000 participant
+
+Winner of Code-N-Build from Google developer from 4000 participant
+
 Best Beginner Hack CUNY Hackathon
+
 Code n build google developer group Hackathon Top 6 Team
 
 
 ## EXPERIENCE 
-**Software Engineer at Crosscert** - Working on Machine Learning ,App developement,cloud
+**Software Engineer at Crosscert** - Working on Machine Learning ,App development,cloud
 
-**Beta Microsoft Learning student Ambassador**
+**Congle - ML Engineer (Intern)** Worked and developed Machine Learning recommendation model for App
 
-**Microsoft Azure Community Organizer Jaipur** 
-
-**Congle - ML Engineer (Intern)** have to work on Machine Learning projects recommendation and App development and for database 
-
-**IncubatedIND Fellow member**- I organize and managed Hackathon, Bootcamp, Sessions and Hackathon in many countries and I was organizer of country UGANDA others.
-
-**Amazon Alexa Community speaker**- I give talks in community in different groups regarding github,open source etc. 
-
-**Regex Software Services- Graphic Designer(Intern)**- Worked on Adobe illustrator,Adobe Photoshop,Adobe Spark and delivered Poster, Thumbnail and other services. 
+**Regex Software Services- Graphic Designer(Intern)**- Worked on Adobe illustrator, Adobe Photoshop, and Adobe Spark and delivered Posters, Thumbnails and other services. 
 
 ![vilsi12 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsi12&layout=compact)
 
 ## Community 
  
+**Beta Microsoft Learning student Ambassador**
+
+**Microsoft Azure Community Organizer Jaipur** 
 ![Az Community (New Logo) Blue](https://user-images.githubusercontent.com/25385071/118434648-0745e600-b6fb-11eb-8a78-15a97d9443e6.jpg)
 ![Microft Learning (New Logo)](https://github.com/vilsi12/Microsoftlearning/blob/main/mls.png)
