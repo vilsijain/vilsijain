@@ -20,15 +20,26 @@ Love to speak in the community and contribute to the community by being a speake
 Youngest Speaker at Google Cloud Community days Jaipur 
 
 Love to Speak on topics Flutter, Open Source, Machine Learning, Tech community, Azure
-Judge 6+ International Hackathon
+Judge 7+ International Hackathon
 Mentor many Open source communities and Hackathons
 Lead Organizer of 2 months of Open source program with 4000+ participants
 Organized hackathons, Seminars, and events.
 
 
-**The Beginner Hack title winner in CUNY Hackathon in MLH 😁 Code n build google developer group Hackathon Top 6 Team🎉 Win Hackathon from github Code innovation series in in fintech group
-😎😎Intuit Hackathon selected Top 30 Team Github**
+**Winner of Hackathon -**
+Github Code innovation series
 
+Winner of title Best Use of google cloud in hacker
+
+Airbus Aerothon 2.0 Finalist
+
+Zeta Hacks 3.0 Top 50 team from 6000 participant
+
+Winner of Code-N-Build from google developer from 4000 participant
+
+Best Beginner Hack CUNY Hackathon
+
+Code n build google developer group Hackathon Top 6 Team
 
 
 ## EXPERIENCE 
