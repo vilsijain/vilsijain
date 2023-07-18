@@ -27,7 +27,7 @@ Organized hackathons, Seminars, and events.
 
 
 **Winner of Hackathon -**
-Github Code innovation series
+<p>Github Code innovation series</p>
 Winner of title Best Use of google cloud in hacker
 Airbus Aerothon 2.0 Finalist
 Zeta Hacks 3.0 Top 50 team from 6000 participant
