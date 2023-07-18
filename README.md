@@ -28,17 +28,11 @@ Organized hackathons, Seminars, and events.
 
 **Winner of Hackathon -**
 Github Code innovation series
-
 Winner of title Best Use of google cloud in hacker
-
 Airbus Aerothon 2.0 Finalist
-
 Zeta Hacks 3.0 Top 50 team from 6000 participant
-
 Winner of Code-N-Build from google developer from 4000 participant
-
 Best Beginner Hack CUNY Hackathon
-
 Code n build google developer group Hackathon Top 6 Team
 
 
