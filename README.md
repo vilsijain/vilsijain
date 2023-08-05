@@ -57,4 +57,4 @@ Code n build google developer group Hackathon Top 6 Team
 
 **Microsoft Azure Community Organizer Jaipur** 
 ![Az Community (New Logo) Blue](https://user-images.githubusercontent.com/25385071/118434648-0745e600-b6fb-11eb-8a78-15a97d9443e6.jpg)
-![Microft Learning (New Logo)](https://github.com/vilsi12/Microsoftlearning/blob/main/mls.png)
+![Microft Learning (New Logo)](https://github.com/vilsi12/Microsoftlearning/blob/main/mlsa.png)
