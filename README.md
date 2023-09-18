@@ -55,7 +55,7 @@ Code n build google developer group Hackathon Top 6 Team
  
 **Beta Microsoft Learning student Ambassador**
 
-**Google Women Tech Maker Ambassdor**
+**Google Women Tech Maker Ambassador**
 
 **Microsoft Azure Community Organizer Jaipur** 
 
