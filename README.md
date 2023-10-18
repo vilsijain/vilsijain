@@ -52,11 +52,13 @@ Code n build google developer group Hackathon Top 6 Team
 ![vilsi12 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsi12&layout=compact)
 
 ## Community 
- 
-**Beta Microsoft Learning student Ambassador**
+
+**Flutter Organizer Jaipur** 
 
 **Google Women Tech Maker Ambassador**
 
 **Microsoft Azure Community Organizer Jaipur** 
+
+**Beta Microsoft Learning student Ambassador**
 
 ![Az Community (New Logo) Blue](https://user-images.githubusercontent.com/25385071/118434648-0745e600-b6fb-11eb-8a78-15a97d9443e6.jpg)
