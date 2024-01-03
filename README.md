@@ -61,6 +61,10 @@ Code n build google developer group Hackathon Top 6 Team
 
 **Beta Microsoft Learning student Ambassador**
 
-![Az Community (New Logo) Blue](https://user-images.githubusercontent.com/25385071/118434648-0745e600-b6fb-11eb-8a78-15a97d9443e6.jpg)
+
+<img src="https://github.com/vilsi12/vilsi12/assets/53365687/42ef5095-e2cf-4ca5-a8d2-a259a568cbcc" width="150" height="150">
+<img src="https://github.com/vilsi12/vilsi12/assets/53365687/89b61373-b4de-4e56-8dc6-d4e26ddfa783" width="150" height="150">
+<img src="https://user-images.githubusercontent.com/25385071/118434648-0745e600-b6fb-11eb-8a78-15a97d9443e6.jpg" width="450" height="200">
+<img src="https://github.com/vilsi12/vilsi12/assets/53365687/ed7cbe1b-4a13-4c48-8d7c-180dfd114803" width="500" height="150">
 
 [![An image of @vilsi12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vilsi12)](https://holopin.io/@vilsi12)
