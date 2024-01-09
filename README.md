@@ -21,7 +21,7 @@ Hey :wave:,I'm Vilsi Jain
 
 🗣️ Topics I Love to Speak On: Flutter, Open Source, Machine Learning, Tech Community, Azure.
 
-👨‍⚖️ Judge at 7+ International Hackathons.
+👨‍⚖️ Judge at 10+ International Hackathons.
 
 🤝 Mentor for numerous open-source communities and hackathons.
 
@@ -29,7 +29,8 @@ Hey :wave:,I'm Vilsi Jain
 
 🚀 Passionate about organizing hackathons, seminars, and events to foster learning and collaboration.
 
-🏆 Hackathon Achievements:
+
+**🏆 Hackathon Achievements:**
 
 Winner, GitHub Code Innovation Series 🚀
 
