@@ -53,8 +53,6 @@ Code n build google developer group Hackathon Top 6 Team
 
 ## Community 
 
-
-![Banner](https://github.com/vilsi12/vilsi12/assets/53365687/c8968de8-c6ce-4b95-8633-bb5e52b859d9)
-
+![Community](https://github.com/vilsi12/vilsi12/assets/53365687/d072cdf0-baa6-43b1-87d2-a2db13412c7a)
 
 [![An image of @vilsi12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vilsi12)](https://holopin.io/@vilsi12)
