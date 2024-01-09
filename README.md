@@ -15,37 +15,41 @@ Hey :wave:,I'm Vilsi Jain
 
 
 🎓 I am passionate about Coding, Development, Machine Learning, and Open Source.
-Love to speak in the community and contribute to the community by being a speaker in many communities Amazon, 20+ Google developer groups, Microsoft Reactor (Women community), Azure dev community, Many International Hackathon, and many other community
+🎙️ Love sharing insights as a speaker in diverse communities, including Amazon, 30+ Google Developer Student Groups, Microsoft Reactor (Women Community), Azure Dev Community, and various international hackathons.
 
-Youngest Speaker at Google Cloud Community days Jaipur 
+👶 Honored to be the Youngest Speaker at Google Cloud Community Days Jaipur.
 
-Love to Speak on topics Flutter, Open Source, Machine Learning, Tech community, Azure
-Judge 7+ International Hackathon
-Mentor many Open source communities and Hackathons
-Lead Organizer of 2 months of Open source program with 4000+ participants
-Organized hackathons, Seminars, and events.
+🗣️ Topics I Love to Speak On: Flutter, Open Source, Machine Learning, Tech Community, Azure.
 
+👨‍⚖️ Judge at 7+ International Hackathons.
 
-**Winner of Hackathon -**
-<span>Github Code innovation series</span>
+🤝 Mentor for numerous open-source communities and hackathons.
 
-Winner of title Best Use of google cloud in hacker
+🎉 Lead Organizer of a 2-month open-source program with 4000+ participants.
 
-Airbus Aerothon 2.0 Finalist
+🚀 Passionate about organizing hackathons, seminars, and events to foster learning and collaboration.
 
-Zeta Hacks 3.0 Top 50 team from 6000 participant
+🏆 Hackathon Achievements:
 
-Winner of Code-N-Build from Google developer from 4000 participant
+Winner, GitHub Code Innovation Series 🚀
 
-Best Beginner Hack CUNY Hackathon
+Best Use of Google Cloud Hacker 🌐
 
-Code n build google developer group Hackathon Top 6 Team
+Airbus Aerothon 2.0 Finalist ✈️
+
+Zeta Hacks 3.0 Top 50 Team 🥇
+
+Winner, Code-N-Build Google Developer Group Hackathon 🏅
+
+Best Beginner Hack, CUNY Hackathon 🏆
+
+Top 6 Team, Code-N-Build Google Developer Group Hackathon 🚀
 
 
 ## EXPERIENCE 
-**Software Engineer at Crosscert** - Working on Machine Learning ,App development,cloud
+**Software Engineer at Crosscert**
 
-**Congle - ML Engineer (Intern)** Worked and developed Machine Learning recommendation model for App
+**Congle - ML Engineer (Intern)**
 
 **Regex Software Services- Graphic Designer(Intern)**- Worked on Adobe illustrator, Adobe Photoshop, and Adobe Spark and delivered Posters, Thumbnails and other services. 
 
