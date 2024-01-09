@@ -54,15 +54,6 @@ Code n build google developer group Hackathon Top 6 Team
 ## Community 
 
 
-**Google Women Tech Maker Ambassador**
-
-**Flutter Organizer Jaipur** 
-
-**Beta Microsoft Learning student Ambassador**
-
-**Microsoft Azure Community Organizer Jaipur** 
-
-
 ![Banner](https://github.com/vilsi12/vilsi12/assets/53365687/c8968de8-c6ce-4b95-8633-bb5e52b859d9)
 
 
