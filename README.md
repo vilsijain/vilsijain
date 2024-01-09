@@ -50,7 +50,7 @@ Code n build google developer group Hackathon Top 6 Team
 **Regex Software Services- Graphic Designer(Intern)**- Worked on Adobe illustrator, Adobe Photoshop, and Adobe Spark and delivered Posters, Thumbnails and other services. 
 
 ![vilsi12 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsi12&layout=compact)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=vilsi12&theme=dark)](https://git.io/streak-stats)
 ## Community 
 
 ![Community](https://github.com/vilsi12/vilsi12/assets/53365687/d072cdf0-baa6-43b1-87d2-a2db13412c7a)
