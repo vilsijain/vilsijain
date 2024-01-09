@@ -62,6 +62,9 @@ Code n build google developer group Hackathon Top 6 Team
 
 **Microsoft Azure Community Organizer Jaipur** 
 
-![Banner](https://github.com/vilsi12/vilsi12/assets/53365687/39175723-8e4a-4a57-9bb1-e66caed8387c)
+
+![Ambassador](https://github.com/vilsi12/vilsi12/assets/53365687/69bd522f-43e9-4deb-87d8-65a98a24e7ff)
+
+
 
 [![An image of @vilsi12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vilsi12)](https://holopin.io/@vilsi12)
