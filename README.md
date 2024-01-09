@@ -53,21 +53,16 @@ Code n build google developer group Hackathon Top 6 Team
 
 ## Community 
 
-**Flutter Organizer Jaipur** 
-
-<img src="https://github.com/vilsi12/vilsi12/assets/53365687/42ef5095-e2cf-4ca5-a8d2-a259a568cbcc" width="100" height="100">
 
 **Google Women Tech Maker Ambassador**
 
-<img src="https://github.com/vilsi12/vilsi12/assets/53365687/ed7cbe1b-4a13-4c48-8d7c-180dfd114803" width="300" height="100">
-
-**Microsoft Azure Community Organizer Jaipur** 
-
-<img src="https://user-images.githubusercontent.com/25385071/118434648-0745e600-b6fb-11eb-8a78-15a97d9443e6.jpg" width="200" height="100">
+**Flutter Organizer Jaipur** 
 
 **Beta Microsoft Learning student Ambassador**
 
-<img src="https://github.com/vilsi12/vilsi12/assets/53365687/89b61373-b4de-4e56-8dc6-d4e26ddfa783" width="100" height="100">
+**Microsoft Azure Community Organizer Jaipur** 
+
+![baneerlogo](https://github.com/vilsi12/vilsi12/assets/53365687/9f6aa447-9cf0-496c-a8b7-c31d160af2a0)
 
 
 
