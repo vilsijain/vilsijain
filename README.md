@@ -46,17 +46,22 @@ Best Beginner Hack, CUNY Hackathon 🏆
 
 Top 6 Team, Code-N-Build Google Developer Group Hackathon 🚀
 
-
 ## EXPERIENCE 
-**Software Engineer at Crosscert**
+**Software Engineer at Crosscert** (June 2022 - Present)
 
-**Congle - ML Engineer (Intern)**
+**AI App developer at Crosscert** Intern (Aug 2021 - June 2022)
 
-**Regex Software Services- Graphic Designer(Intern)**- Worked on Adobe illustrator, Adobe Photoshop, and Adobe Spark and delivered Posters, Thumbnails and other services. 
+**ML Engineer at Congle** Intern (June 2021 - September 2021) 
 
-![vilsi12 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vilsi12&layout=compact)
+**Graphic Designer Regex Software Services**- Intern (2020)
+
+<p align="center"><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vilsi12&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilsi12&layout=compact" alt="GitHub Badge"></a></p>
+
+
 ## Community 
 
 ![Community](https://github.com/vilsi12/vilsi12/assets/53365687/d072cdf0-baa6-43b1-87d2-a2db13412c7a)
 
 [![An image of @vilsi12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vilsi12)](https://holopin.io/@vilsi12)
+
+<p align="center"><a href="https://github.com/vilsi12?tab=followers"><img src="https://img.shields.io/github/followers/vilsi12?label=Followers&style=social" alt="GitHub Badge"></a></p>
