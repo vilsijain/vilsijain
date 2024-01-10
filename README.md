@@ -30,7 +30,7 @@ Hey :wave:,I'm Vilsi Jain
 🚀 Passionate about organizing hackathons, seminars, and events to foster learning and collaboration.
 
 
-**🏆 Hackathon Achievements:**
+## 🏆 Hackathon Achievements
 
 Winner, GitHub Code Innovation Series 🚀
 
