@@ -29,22 +29,8 @@ Hey :wave:,I'm Vilsi Jain
 
 🚀 Passionate about organizing hackathons, seminars, and events to foster learning and collaboration.
 
+7+ Hackathon Winner or top title & teams
 
-## Hackathon Achievements 🏆
-
-Winner, GitHub Code Innovation Series 🚀
-
-Best Use of Google Cloud Hacker 🌐
-
-Airbus Aerothon 2.0 Finalist ✈️
-
-Zeta Hacks 3.0 Top 50 Team 🥇
-
-Winner, Code-N-Build Google Developer Group Hackathon 🏅
-
-Best Beginner Hack, CUNY Hackathon 🏆
-
-Top 6 Team, Code-N-Build Google Developer Group Hackathon 🚀
 
 ## EXPERIENCE 
 **Software Engineer at Crosscert** (June 2022 - Present)
