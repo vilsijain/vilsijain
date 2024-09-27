@@ -15,7 +15,7 @@ Hey :wave:,I'm Vilsi Jain
 
 
 🎓 I am passionate about Coding, Development, Machine Learning, and Open Source.
-🎙️ Love sharing insights as a speaker in diverse communities, including Amazon, 30+ Google Developer Student Groups, Microsoft Reactor (Women Community), Azure Dev Community, and various international hackathons.
+🎙️ Love sharing insights as a speaker in diverse communities, including Amazon, Devfest, google cloud commuity , 30+ Google Developer Student Groups, Microsoft Reactor (Women Community), Azure Dev Community, and various international hackathons.
 
 👶 Honored to be the Youngest Speaker at Google Cloud Community Days Jaipur.
 
