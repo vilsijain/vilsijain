@@ -19,7 +19,7 @@ Hey :wave:,I'm Vilsi Jain
 
 👶 Honored to be the Youngest Speaker at Google Cloud Community Days Jaipur.
 
-🗣️ Topics I Love to Speak On: Flutter, Open Source, Machine Learning, Tech Community, Azure.
+🗣️ Topics I Love to Speak On: Flutter, Open Source, Machine Learning, Tech Community, Azure, AI.
 
 👨‍⚖️ Judge at 10+ International Hackathons.
 
