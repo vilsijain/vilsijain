@@ -4,7 +4,7 @@ Hey :wave:,I'm Vilsi Jain
 
 
 <div align="center">
-<a  href="https://www.linkedin.com/in/vilsijain08/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/in/vilsijain/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/VilsiJ" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:jainvilsi12@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.threads.net/@vilsijain" target="_blank"><img alt="Thread" src="https://img.shields.io/badge/thread-%2300acee.svg?&style=for-the-badge&logo=thread&logoColor=white&alt=thread"/></a>
@@ -41,7 +41,7 @@ Hey :wave:,I'm Vilsi Jain
 
 **Graphic Designer Regex Software Services**- Intern (2020)
 
-<p align="center"><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vilsi12&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilsi12&layout=compact" alt="GitHub Badge"></a></p>
+<p align="center"><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vilsijain&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilsijain&layout=compact" alt="GitHub Badge"></a></p>
 
 
 ## Community 
@@ -50,4 +50,4 @@ Hey :wave:,I'm Vilsi Jain
 
 [![An image of @vilsi12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vilsi12)](https://holopin.io/@vilsi12)
 
-<p align="center"><a href="https://github.com/vilsi12?tab=followers"><img src="https://img.shields.io/github/followers/vilsi12?label=Followers&style=social" alt="GitHub Badge"></a></p>
+<p align="center"><a href="https://github.com/vilsijain?tab=followers"><img src="https://img.shields.io/github/followers/vilsijain?label=Followers&style=social" alt="GitHub Badge"></a></p>
