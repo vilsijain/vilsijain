@@ -46,7 +46,7 @@ Hey :wave:,I'm Vilsi Jain
 
 ## Community 
 
-![Community](https://github.com/vilsi12/vilsi12/assets/53365687/d072cdf0-baa6-43b1-87d2-a2db13412c7a)
+![Community](https://github.com/vilsijain/vilsijain/assets/53365687/d072cdf0-baa6-43b1-87d2-a2db13412c7a)
 
 [![An image of @vilsi12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vilsi12)](https://holopin.io/@vilsi12)
 
