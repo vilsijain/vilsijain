@@ -5,7 +5,7 @@ Hey :wave:,I'm Vilsi Jain
 
 <div align="center">
 <a  href="https://www.linkedin.com/in/vilsijain/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/VilsiJ" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="https://twitter.com/VilsiJain" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:jainvilsi12@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.threads.net/@vilsijain" target="_blank"><img alt="Thread" src="https://img.shields.io/badge/thread-%2300acee.svg?&style=for-the-badge&logo=thread&logoColor=white&alt=thread"/></a>
 
