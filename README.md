@@ -33,7 +33,7 @@ Hey :wave:,I'm Vilsi Jain
 
 
 ## EXPERIENCE 
-**Software Engineer at Progton** (Dec 2024 - Present)
+**Software Engineer at Progton** (Dec 2024 - Jan 2025)
 
 **Software Engineer at Crosscert** (June 2022 - Sep 2024)
 
