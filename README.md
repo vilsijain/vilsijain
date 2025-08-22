@@ -33,7 +33,7 @@ Hey :wave:,I'm Vilsi Jain
 
 
 ## EXPERIENCE 
-**Senior Software Engineer at Formidium** (Present)
+**Senior Software Engineer at Formidium** (April-Present)
 
 **Software Engineer at Progton** Contract (Dec 2024 - Jan 2025)
 
