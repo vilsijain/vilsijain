@@ -14,22 +14,15 @@ Hey :wave:,I'm Vilsi Jain
   </div>
 
 
-🎓 I am passionate about Coding, Development, Machine Learning, and Open Source.
-🎙️ Love sharing insights as a speaker in diverse communities, including Amazon, Devfest, google cloud commuity , 30+ Google Developer Student Groups, Microsoft Reactor (Women Community), Microsoft Reactor, Azure Dev Community, and various international hackathons.
-
-👶 Honored to be the Youngest Speaker at Google Cloud Community Days Jaipur.
-
-🗣️ Topics I Love to Speak On: Flutter, Open Source, Machine Learning, Tech Community, Azure, AI.
-
-👨‍⚖️ Judge at 10+ International Hackathons.
-
-🤝 Mentor for numerous open-source communities and hackathons.
-
-🎉 Lead Organizer of a 2-month open-source program with 4000+ participants.
-
-🚀 Passionate about organizing hackathons, seminars, and events to foster learning and collaboration.
-
-7+ Hackathon Winner or top title & teams
+- 🎓Passionate about Coding, Development, Machine Learning, and Open Source
+- 🎙️ Speaker at Amazon, DevFest, Google Cloud Community, Microsoft Reactor, Azure Dev Community, MLH hackathons
+- 👶 Youngest Speaker at Google Cloud Community Days Jaipur
+- 🗣️ Topics I love: Flutter, AI, Machine Learning, Open Source, Tech Communities, Azure
+- 👨‍⚖️ Judge at 10+ International Hackathons
+- 🤝 Mentor for numerous open-source communities and hackathon
+- 🎉 Lead Organizer of a 2-month open-source program with 4000+ participants
+- 🚀 Passionate about organizing hackathons, seminars, and events to foster learning and collaboration.
+- 7+ Hackathon Winner or top title & teams
 
 
 ## EXPERIENCE 
