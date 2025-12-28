@@ -26,19 +26,15 @@ Hey :wave:,I'm Vilsi Jain
 
 
 ## EXPERIENCE 
-**Senior Software Engineer at Formidium** (April-Present)
-
-**Software Engineer at Progton** Contract (Dec 2024 - Jan 2025)
-
-**Software Engineer at Crosscert** (June 2022 - Sep 2024)
-
-**AI App developer at Crosscert** Intern (Aug 2021 - June 2022)
-
-**ML Engineer at Congle** Intern (June 2021 - September 2021) 
-
-**Graphic Designer Regex Software Services**- Intern (2020)
+- **Senior Software Engineer at Formidium** (April-Present)
+- **Software Engineer at Progton** Contract (Dec 2024 - Jan 2025)
+- **Software Engineer at Crosscert** (June 2022 - Sep 2024)
+- **AI App developer at Crosscert** Intern (Aug 2021 - June 2022)
+- **ML Engineer at Congle** Intern (June 2021 - September 2021)
+- **Graphic Designer Regex Software Services**- Intern (2020)
 
 <p align="center"><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vilsijain&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilsijain&layout=compact" alt="GitHub Badge"></a></p>
+
 
 
 ## Community 
