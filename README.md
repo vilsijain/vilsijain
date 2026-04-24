@@ -26,7 +26,7 @@ Hey :wave:,I'm Vilsi Jain
 
 
 ## EXPERIENCE 
-- **Senior AI Software Engineer at BASF** (July-Present)
+- **Senior AI Software Engineer at BASF** (September-Present)
 - **Senior Software Engineer at Formidium** (April-July)
 - **Software Engineer at Crosscert** (June 2022 - Sep 2024)
 - **AI App developer at Crosscert** Intern (Aug 2021 - June 2022)
