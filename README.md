@@ -16,7 +16,7 @@ Hey :wave:,I'm Vilsi Jain
   
 Senior AI Software Engineer | Generative AI & LLMs | LLM Inference & Serving | AI/ML | Developer Community
 
-I enjoy working in **AI engineering and developer experience** — building production-oriented solutions, experimenting with emerging AI technologies, and sharing what I learn with the developer community through technical talks, workshops, mentoring, and open-source projects.
+I enjoy working **AI engineering and developer experience** building production-oriented solutions, experimenting with emerging AI technologies, and sharing what I learn with the developer community through technical talks, workshops, mentoring, and open-source projects.
 
 
 - 🎓Passionate about Coding, Development, Machine Learning, and Open Source
