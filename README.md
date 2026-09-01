@@ -15,7 +15,7 @@ Hey :wave:,I'm Vilsi Jain
 
 
 - 🎓Passionate about Coding, Development, Machine Learning, and Open Source
-- 🎙️ Speaker at Amazon, DevFest, Google Cloud Community, Microsoft Reactor, Azure Dev Community, MLH hackathons
+- 🎙️ Speaker at DevFest, Google Cloud Community, Microsoft Reactor,lot of AI series for Microsoft  Azure Dev Community, MLH hackathons
 - 👶 Youngest Speaker at Google Cloud Community Days Jaipur
 - 🗣️ Topics I love: Flutter, AI, Machine Learning, Open Source, Tech Communities, Azure
 - 👨‍⚖️ Judge at 10+ International Hackathons
@@ -24,6 +24,12 @@ Hey :wave:,I'm Vilsi Jain
 - 🚀 Passionate about organizing hackathons, seminars, and events to foster learning and collaboration.
 - 7+ Hackathon Winner or top title & teams
 
+## 🔭 Currently working on
+- 🤖 Generative AI and LLM-powered applications
+- ⚡ High-performance LLM inference and serving with **vLLM**
+- 🧠 Machine Learning and AI engineering
+- ☁️ Production AI systems and scalable architectures
+- 🌐 AI-powered applications and developer tools
 
 ## EXPERIENCE 
 - **Senior AI Software Engineer at BASF** (September-Present)
