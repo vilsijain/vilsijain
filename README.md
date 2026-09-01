@@ -1,15 +1,12 @@
 Hey :wave:,I'm Vilsi Jain
 
-
-
-
 <div align="center">
-<a  href="https://www.linkedin.com/in/vilsijain/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/VilsiJain" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:jainvilsi12@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.threads.net/@vilsijain" target="_blank"><img alt="Thread" src="https://img.shields.io/badge/thread-%2300acee.svg?&style=for-the-badge&logo=thread&logoColor=white&alt=thread"/></a>
+<a href="https://www.linkedin.com/in/vilsijain/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/VilsiJain" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=x&logoColor=white&alt=x" /></a>
+<a href="mailto:jainvilsi12@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.threads.net/@vilsijain" target="_blank"><img alt="Threads" src="https://img.shields.io/badge/Threads-%23000000.svg?&style=for-the-badge&logo=threads&logoColor=white" /></a>
+</div>
 
- 
 <br/>
 
   </div>
@@ -21,9 +18,9 @@ I enjoy working **AI engineering and developer experience** building production-
 
 
 - 🎓Passionate about Coding, Development, Machine Learning, and Open Source
-- 🎙️ Speaker at DevFest, Google Cloud Community, Microsoft Reactor,lot of AI series for Microsoft  Azure Dev Community, MLH hackathons
+- 🎙️ Speaker at DevFest, Google Cloud Community, Microsoft Reactor, AI series for Microsoft  Azure Dev Community, MLH hackathons
 - 👶 Youngest Speaker at Google Cloud Community Days Jaipur
-- 🗣️ Topics I love: Flutter, AI, Machine Learning, Open Source, Tech Communities, Azure
+- 🗣️ Topics I love:  AI,Machine Learning, Open Source,Flutter, Tech Communities, Microsoft Azure
 - 👨‍⚖️ Judge at 10+ International Hackathons
 - 🤝 Mentor for numerous open-source communities and hackathon
 - 🎉 Lead Organizer of a 2-month open-source program with 4000+ participants
